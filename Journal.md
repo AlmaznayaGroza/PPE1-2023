@@ -1,18 +1,7 @@
-#Journal de bord du projet encadré
+# Journal de bord du projet encadré
 
 J'ai cloné le dépôt git sur ma machine.
 
 
-
-Séance 2
-
-
-
-***********************************************########################################~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-
-
-#Séance 3
+## Semaine 4
+J'essaie - avec grand mal- de comprendre comment fonctionne Git... Pour cela, je refais les exercices des PDFs 1 & 2.
