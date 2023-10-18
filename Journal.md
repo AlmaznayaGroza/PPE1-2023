@@ -7,3 +7,5 @@ J'ai cloné le dépôt git sur ma machine.
 J'essaie - avec grand mal- de comprendre comment fonctionne Git... Pour cela, je refais les exercices des PDFs 1 & 2.
 
 ЎўЎўЎўЎўЎўЎўЎўЎў
+
+мяў
